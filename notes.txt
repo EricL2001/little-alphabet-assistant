@@ -1,0 +1,6 @@
+Key javascript takeaways
+
+Event listener for keydown
+Event listener for transition end
+Each letter key is associated with an audio file that pronouces the letter of the alphabet
+CSS transitions for animation
